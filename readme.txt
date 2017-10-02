@@ -1,2 +1,2 @@
 Git is a distrubuted vision control system.
-Git is free software.
+Git is free software distrubuted under the GPL.
